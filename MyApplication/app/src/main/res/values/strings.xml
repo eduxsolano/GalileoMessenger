@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="login.email.hint">Correo electrónico</string>
+    <string name="login.hint.password">Contraseña</string>
+    <string name="login.button.signin">Iniciar sesión</string>
+    <string name="login.button.signup">Crear cuenta</string>
+</resources>
