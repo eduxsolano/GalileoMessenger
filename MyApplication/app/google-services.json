@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "509687323474",
+    "firebase_url": "https://android-chat-c4109.firebaseio.com",
+    "project_id": "android-chat-c4109",
+    "storage_bucket": "android-chat-c4109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509687323474:android:10e9f14a639e78e0",
+        "android_client_info": {
+          "package_name": "com.example.eduardo.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509687323474-5hr4daaj7ju3ue6fnir7kucgk1bbs9tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlrqR_8CTwbCU8j2SJf1Oq0KF5BejROQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
