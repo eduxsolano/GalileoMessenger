@@ -3,8 +3,7 @@ package com.example.eduardo.messenger;
 import android.app.Application;
 
 import com.firebase.client.Firebase;
-
-import butterknife.ButterKnife;
+import com.google.firebase.database.FirebaseDatabase;
 
 /**
  * Created by Eduardo on 7/14/16.
@@ -24,6 +23,7 @@ public class AndroidChatApplication extends Application
     {
         Firebase.setAndroidContext(this);
         Firebase.getDefaultConfig().setPersistenceEnabled(true);
+        FirebaseDatabase.getInstance().setPersistenceEnabled(true);
 
 
 
